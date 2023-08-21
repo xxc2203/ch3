@@ -15,7 +15,7 @@ type conversions : Main function
 operators : Main function
 
 ## 03-week3-ch6-1
-if : 6-1-1、6-1-3-1-2、6-1-4(p112-119)
+if : 6-1-1、6-1-3-1~2、6-1-4(p112-119)
 
 switch case : 6-1-5(p121)、switchcase_test
 
