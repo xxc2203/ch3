@@ -6,13 +6,13 @@ lab1-2 : Debugging
 lab1-3 : Main function
 
 ## 02-week2-ch3-2~5
-sizeof : namespace
+sizeof : 3-3、3-3-practice_c_output、3-3-practice_c_output、4-1-1
 
-constants : Debugging
+constants : 3-4-1、define_practice
 
-type conversions : Main function
+type conversions : 4-2-1、type conversions in C
 
-operators : Main function
+operators : basic_op、logical、prefix_postfix
 
 ## 03-week3-ch6-1
 if : 6-1-1、6-1-3-1\~2、6-1-4(p112~119)
