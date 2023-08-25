@@ -1,9 +1,9 @@
 ## 01-week1-ch1~3-2
 lab1-1 : namespace
 
-lab1-2 : Debugging
+lab1-2 : debugging
 
-lab1-3 : Main function
+lab1-3 : main function
 
 ## 02-week2-ch3-2~5
 sizeof : 3-3、3-3-practice_c_output、3-3-practice_c_output、4-1-1
